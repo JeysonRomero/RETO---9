@@ -216,3 +216,14 @@ Este código prueba los valores de la serie Fibonacci desde 35 hasta 44. Calcula
 <br>
 
 ## 5.Crear cuenta en stackoverflow y adjuntar imagen en el repo
+<br>
+
+![Captura de pantalla 2024-04-22 225151](https://github.com/JeysonRomero/RETO---9/assets/159095091/85fa96c8-4b08-4819-9461-07e97f0e3f94)
+
+<br>
+
+## 6.Cosas de adultos....ir a linkedin y crear perfil....NO IMPORTA que estén iniciando, si tienen tiempo para redes poco útiles como fb, insta, o tiktok tienen tiempo para crear un perfil mamalón. Dejar enlace en el repo.
+<br>
+
+![Captura de pantalla 2024-04-22 225609](https://github.com/JeysonRomero/RETO---9/assets/159095091/fb2f146e-d5aa-44e5-bd07-f41a5249d0c2)
+
